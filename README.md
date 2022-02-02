@@ -2,7 +2,7 @@
 
 Business Card App
 
-## Main Screen
+## Main Screen (Featured)
 
 ![Main Screen](https://github.com/FedorBoretsky/Welcome-UIKit-/blob/main/Welcome%20(UIKit)/Screenshots/Screenshot01.png?raw=true)
 
